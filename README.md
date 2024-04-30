@@ -20,4 +20,5 @@
 </div><br>
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
 <br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionaimoraes@gmail.com)
