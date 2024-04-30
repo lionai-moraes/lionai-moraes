@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://br.linkedin.com/in/lionai-moraes-5427a22ba)
 
 ![lionai GitHub stats](https://github-readme-stats.vercel.app/api?username=lionai-moraes&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionai-moraes&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
