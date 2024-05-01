@@ -1,4 +1,4 @@
-### Olá eu sou o Lionai Moraes🖐️
+### Olá eu sou o Lionai🖐️
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lionai-moraes-5427a22ba)
